@@ -10,6 +10,7 @@ In this lab, you will have an opportunity to get familiar with some of the more 
 
 1. Fork and clone this repository.
 
+
 1. Navigate to the cloned repository's directory on your command line. Then, run the following command:
 
    ```
